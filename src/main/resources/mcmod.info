@@ -1,0 +1,16 @@
+[
+    {
+        "modid": "ambiencemusic",
+        "name": "Ambience Music",
+        "description": "Music module. Specially made for a gachicraft server.",
+        "version": "${version}",
+        "mcversion": "${mcversion}",
+        "url": "https://gachicraft.ru",
+        "updateUrl": "https://gachicraft.ru",
+        "authorList": ["caffidev"],
+        "credits": "",
+        "logoFile": "",
+        "screenshots": [],
+        "dependencies": []
+    }
+]
